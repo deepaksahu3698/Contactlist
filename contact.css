@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+*{
+    padding: 0;
+    margin: 0;
+
+}
+#nav{
+    /* background-color: teal; */
+    display: flex;
+    border: 1px solid teal;
+    height: 50px;
+    /* width: 60%; */
+    margin:10px auto;
+    align-items: center;
+    justify-content: space-evenly;
+    color: teal;
+}
+#nav a{
+ color: teal;
+ text-decoration: none;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+table,tr,tbody {
+    border: 1px solid teal;
+    width: 50%;
+    margin: auto;
+}
+table thead{
+    background-color: teal;
+    color: white;
+    height: 50px;
+}
+#tr td{
+border: 1px solid teal;
+font-size: 20px;
+
+}
+#a{
+    color: red;
+    text-decoration: underline;
+    cursor: pointer;
+}
